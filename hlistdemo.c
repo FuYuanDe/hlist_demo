@@ -1,3 +1,12 @@
+/*
+ *  Description : linux应用层编程之哈希链表hlist的使用
+ *  Date        ：20180713
+ *  Author      ：fuyuande
+ *  Mail        : mrsonko@126.com
+ *
+ */
+
+
 #include <stddef.h>
 #include <stdio.h>
 #include <string.h>
